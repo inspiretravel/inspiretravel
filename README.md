@@ -1,13 +1,12 @@
 👾 Hello, Cyber Explorer! 👋 My name is Pierre moving from east to west.
 
 ## 🔗 Connect with Me  
-
 <div>
 <a href="https://www.linkedin.com/in/pierrebleung/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
-
+<div></div>
 
 From SAP wizard to cybersecurity warrior, I'm on a mission to secure the digital world! 🚀
 
