@@ -21,20 +21,14 @@ Passed SC-200 exam recently — one step closer to mastering cloud security ☁�
 🚀 Follow my journey as I hack my way into cybersecurity (ethically, of course 😉)! 
 
 
-## 🚀Skills
+<div></div>
+<div></div>
+## 🏠Cybersecuirty home lab project
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Coming up|
-| Network Traffic Monitoring and Attack Detection | Coming up|
-| Security Automation with Shuffle SOAR         | Coming up|
-| Incident Response Planning and Execution      | Coming up|
-| Case Management with TheHive                  | Coming up|
-| Scripting and Automation for Threat Mitigation | Coming up|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/inspiretravel/Honeypot-tpot-in-AWS">Setup honeypot tpot in AWS cloud</a>|
 
-## 🏠Cybersecuirty home lab projects
-<div>-Honeypot in AWS</div>
-<div>-Honeypot in AZURE</div>
 
 ## 🏆 Certifications  
 <div>
