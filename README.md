@@ -1,5 +1,8 @@
 👾 Hello, Cyber Explorer! 👋 My name is Pierre moving from east to west.
 
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pierrebleung) 
+
 From SAP wizard to cybersecurity warrior, I'm on a mission to secure the digital world! 🚀
 
 🔍 What I'm up to?
@@ -20,8 +23,6 @@ Passed SC-200 exam recently — one step closer to mastering cloud security ☁�
 
 🚀 Follow my journey as I hack my way into cybersecurity (ethically, of course 😉)! 
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pierrebleung) 
 
 ### 🚀Skills
 
