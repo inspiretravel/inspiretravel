@@ -3,11 +3,11 @@ From SAP wizard to cybersecurity warrior, I'm on a mission to secure the digital
 
 🔍 What I'm up to?
 
-Shifting gears from 15 years in SAP consulting to the thrilling world of cyber defense 🛡️
+Shifting gears from 15+ years in SAP consulting to the thrilling world of cyber defense 🛡️
 
 Learning Splunk, Microsoft Sentinel, and CrowdStrike—because logs don’t lie! 🔥
 
-Passed SC-200 exam recently —one step closer to mastering cloud security ☁️
+Passed SC-200 exam recently — one step closer to mastering cloud security ☁️
 
 💡 Random fun facts:
 
