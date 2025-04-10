@@ -32,6 +32,7 @@ Passed SC-200 exam recently — one step closer to mastering cloud security ☁�
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| SIEM Implementation using MS Sentinel and other Azure tool|<a href="https://github.com/inspiretravel/azure-cloud-soc-homelab">Setup Azure SOC</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/inspiretravel/Honeypot-tpot-in-AWS">Setup honeypot tpot in AWS cloud</a>|
 
 
