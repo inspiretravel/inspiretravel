@@ -1,3 +1,5 @@
+# Who am I
+
 👾 Hello, Cyber Explorer! 👋 My name is Pierre moving from east to west.
 
 From SAP wizard to cybersecurity warrior, I'm on a mission to secure the digital world! 🚀
@@ -53,7 +55,7 @@ Passed SC-200 exam recently — one step closer to mastering cloud security ☁�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=inspiretravel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=inspiretravel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=inspiretravel&theme=tokyonight&hide_border=false)
 
