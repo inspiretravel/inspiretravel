@@ -30,7 +30,7 @@ Passed SC-200 exam recently — one step closer to mastering cloud security ☁�
 <div></div>
 
 
-## 🏠Cybersecuirty home lab projects
+## 🏠Cybersecurity home lab projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
