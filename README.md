@@ -7,11 +7,11 @@ From SAP wizard to cybersecurity warrior, I'm on a mission to secure the digital
 
 🔍 What I'm up to?
 
-Shifting gears from 20 years in SAP consulting to the thrilling world of cyber defense 🛡️
+Shifting gears from 20 years in SAP ERP consulting to the thrilling world of cyber defense 🛡️
+
+Preparing <a href ="https://github.com/inspiretravel/OSCP-Journey">MY FIRST ATTEMPT OSCP exam in 2026 
 
 Learning Splunk, Microsoft Sentinel, and CrowdStrike—because logs don’t lie! 🔥
-
-Preparing <a href ="https://github.com/inspiretravel/OSCP-Journey"> OSCP exam in this coming 90 days 
 
 <div></div>
 <div></div>
