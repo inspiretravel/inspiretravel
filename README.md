@@ -11,15 +11,16 @@ Shifting gears from 20 years in SAP consulting to the thrilling world of cyber d
 
 Learning Splunk, Microsoft Sentinel, and CrowdStrike—because logs don’t lie! 🔥
 
-Passed SC-200 exam recently — one step closer to mastering cloud security ☁️
+Preparing <a href ="https://github.com/inspiretravel/OSCP-Journey"> OSCP exam in this coming 90 days 
 
-
+<div></div>
+<div></div>
 
 💡 Random fun facts:
 
-🌱 Love getting my hands dirty—in the garden & in cybersecurity! <a href ="https://github.com/inspiretravel/OSCP-Journey">(Curernt status: OSCP Preparation Journey)
+🌱 Love getting my hands dirty—in the garden & in cybersecurity! 
 
-🏃‍♂️ Run marathons… because endurance is key in both sports & cyber!
+🏃‍♂️ Running … because endurance is key in both sports & cyber!
 
 📸 Chasing sunsets & cyber threats—landscape photography is my zen
 
@@ -56,4 +57,3 @@ Latest updated: Jan 11, 2026
 [![](https://visitcount.itsvg.in/api?id=inspiretravel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
